@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(32, 15, 48);
+    color: white;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+.signup{
+width: 360px;
+height: 720px;
+margin: auto;
+background-color:rgb(86, 45, 45);
+
+border-radius: 3px;
+}
+
+form{
+    width: 380px;
+    margin-left: 20px;
+   
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 19px;
+}
+form input{
+    width: auto;
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+
+
+}
+input[type="button"]{
+    width: 150px;
+    height: 35px;
+    margin-top: 10px;
+    background-color: aquamarine;
+    font-size: 18px;
+
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+
+}
